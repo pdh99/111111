@@ -1,0 +1,24 @@
+From 95ffbf436b83e4f18657c825d2fb7caee62adcef Mon Sep 17 00:00:00 2001
+From: "MSI\\11472" <1147216194@qq.com>
+Date: Wed, 13 Jul 2022 19:49:06 +0800
+Subject: [PATCH] =?UTF-8?q?Revert=20"=E6=96=87=E4=BB=B63=20=E4=BF=AE?=
+ =?UTF-8?q?=E6=94=B9"?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This reverts commit a4ac5863428b55d037c07ea2102da71f8992b693.
+---
+ 3.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/3.txt b/3.txt
+index 48be15d..e69de29 100644
+--- a/3.txt
++++ b/3.txt
+@@ -1 +0,0 @@
+-修改
+\ No newline at end of file
+-- 
+2.35.1.windows.2
+
